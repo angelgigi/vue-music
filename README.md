@@ -1,7 +1,7 @@
 # vue-music
 
 ### 项目截图
-![image](https://github.com/angelgigi/vue-music/blob/master/vue-music.gif)
+<img width="414" src="https://github.com/angelgigi/vue-music/blob/master/vue-music.gif">
 
 ## Build Setup
 

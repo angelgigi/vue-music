@@ -1,6 +1,7 @@
 # vue-music
 
-> A Vue.js project
+### 项目截图
+![image](https://github.com/angelgigi/vue-music/blob/master/vue-music.gif)
 
 ## Build Setup
 
@@ -18,4 +19,3 @@ npm run build
 npm run build --report
 ```
 
-For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).

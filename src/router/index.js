@@ -9,6 +9,14 @@ import Disc from 'components/disc/disc'
 import TopList from 'components/top-list/top-list'
 Vue.use(Router)
 
+/* 
+//防止内存泄漏
+export default ()=>{
+  return new Router({
+    routes:[]
+  })
+} 
+*/
 export default new Router({
   routes: [
     {
